@@ -24,6 +24,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
+//hello
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
